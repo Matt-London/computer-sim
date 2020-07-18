@@ -1,0 +1,11 @@
+THIS CONTAINS AN EXPLANATION OF EACH FOLDER/FILE AND WHAT IT HOLDS
+
+src/logic/:
+Contains logic gates and adders
+
+src/logic/logicGates.c:
+Contains logic gates that are needed at the base level
+- and, or, not, xor, nand, nor
+
+src/logic/adders.c:
+Contains half adders and full adders
